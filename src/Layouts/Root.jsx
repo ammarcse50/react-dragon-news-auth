@@ -4,7 +4,7 @@ import Header from "../pages/Shared/Header/Header";
 
 const Root = () => {
   return (
-    <div className="max-w- mx-auto">
+    <div className="max-w-6xl mx-auto">
       <Header></Header>
       <Navbar></Navbar>
       <Outlet></Outlet>
