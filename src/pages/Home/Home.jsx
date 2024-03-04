@@ -9,7 +9,7 @@ const Home = () => {
     <div>
       <Header></Header>
       <Navbar></Navbar>
-      <h2>This is HOME</h2>
+    
 
       <div className="grid md:grid-cols-4  gap-6">
         <div className="outline ">
